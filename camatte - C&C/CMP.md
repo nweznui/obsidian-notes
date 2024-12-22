@@ -1,0 +1,1 @@
+capitalist [[mode of production]]

@@ -1,0 +1,1 @@
+The doctrine of the conditions of the liberation of the [[proletariat]].

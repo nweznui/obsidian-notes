@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ad56d8b98164af73",
+    "type": "split",
+    "children": [
+      {
+        "id": "1379d60c91ceeb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc2141662010467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "camatte - C&C/law of value.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "law of value"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acf127b41b672a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "b055358f6a1093ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644ea84cc30c2c6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "044e13463998267b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "immediate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81ca24d42b6ff022",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "680af79d9a0ae7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1e83f7c00a3c51c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "544d565a4066bb0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "industrial revolution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for industrial revolution"
+            }
+          },
+          {
+            "id": "41b599490100d480",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "industrial revolution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from industrial revolution"
+            }
+          },
+          {
+            "id": "f33d911da50bab12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99d20dd4c637a6c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "industrial revolution.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of industrial revolution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fc2141662010467",
+  "lastOpenFiles": [
+    "camatte - C&C/Contributions of the Urtext (camatte).md",
+    "camatte - C&C/law of value.md",
+    "camatte - C&C/autonomy of exchange-value.md",
+    "camatte - C&C/formal domination.md",
+    "heinrich/Das Kapital.md",
+    "heinrich/exchange-value.md",
+    "heinrich/Karl Marx.md",
+    "camatte - C&C/political economy.md",
+    "dialectical logic/dialectics.md",
+    "camatte - C&C/value-creating process.md",
+    "camatte - C&C/C-M-C.md",
+    "camatte - C&C/surplus-value.md",
+    "camatte - C&C/variable capital.md",
+    "camatte - C&C/circulation.md",
+    "camatte - C&C/capital concieved from money.md",
+    "camatte - C&C/productive-consumption.md",
+    "camatte - C&C/money as autonomized exchange value.md",
+    "camatte - C&C/gold standard.md",
+    "camatte - C&C/Objectified universal labor-time.md",
+    "camatte - C&C/real subsumption of labor under capital.md",
+    "camatte - C&C/productive consumption.md",
+    "camatte - C&C/money.md",
+    "camatte - C&C/mode of production.md",
+    "camatte - C&C/mercantile exchange.md",
+    "camatte - C&C/labor productivity.md",
+    "camatte - C&C/immanent tendency of capital.md",
+    "heinrich",
+    "camatte - C&C",
+    "principles of communism",
+    "dialectical logic",
+    "Reading list/Untitled",
+    "Reading list"
+  ]
+}
