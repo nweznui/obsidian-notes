@@ -1,0 +1,1 @@
+Materialized, crystalized, [[objectified labor]].

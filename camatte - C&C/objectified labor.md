@@ -1,0 +1,1 @@
+[[dead labor]] and [[living labor]] are two separate kinds of labor objectified within [[capital]]. (really not sure need a source for this one)

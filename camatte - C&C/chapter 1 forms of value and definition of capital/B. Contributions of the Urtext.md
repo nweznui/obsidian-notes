@@ -1,3 +1,7 @@
+---
+tags:
+  - Capital_and_Community
+---
 The secret of production is the exploitation of the proletariat.
 Capital is a social relation whose valorization masks itself as an innate quality, instead of presenting the true source of surplus value-- labor-power.
 Capital seeks to maintain it's existence through the [[autonomy of exchange-value]].
@@ -7,7 +11,7 @@ commodities are brought together, compared, and become equivalents:
 	*1 coat = 12 yards of linen*
 This is known as the [[law of value]].
 
-"[[Objectified universal labor-time]]", is a universal equivalent for the exchange of commodities.
+"[[objectified universal labor-time]]", is a universal equivalent for the exchange of commodities.
 	 *1 coat = 12 units of (socially necessary) labor-time*
 	*1 coat* = *$500*
 	 *$500* = *12 units of (socially necessary) labor-time*

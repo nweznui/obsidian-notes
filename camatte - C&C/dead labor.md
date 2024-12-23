@@ -1,0 +1,1 @@
+The amount of "previous labor" implemented in a commodity. Has a use-aspect. Appears in determination of [[exchange-value]]. [[capital]] is objectified dead labor.

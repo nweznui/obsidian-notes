@@ -1,0 +1,1 @@
+Brings [[dead labor]] back to life through it's incorporation. Made up by [[labor time]] and [[surplus labor]].

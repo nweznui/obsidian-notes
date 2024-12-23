@@ -1,4 +1,4 @@
-The immanent tendency of capital, or "production for production's sake" comes with [[formal subsumption]].
+The immanent tendency of capital, or "production for production's sake" comes with [[formal domination]].
 Produce as much and as many surplus as much as possible without consequence.
 Only becomes adequately realized until the [[real subsumption of labor under capital]].
 One of the cases of appearance of [[relative surplus value]].

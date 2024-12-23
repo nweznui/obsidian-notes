@@ -1,4 +1,11 @@
-Money is a simple quantitative movement only capable of increasing itself, during the [[mercantile exchange]] phase of capitalism. It can only be accumulated.
+---
+tags:
+  - autonomy_of_exchange_value
+  - money
+---
+[[money]] is a simple quantitative movement only capable of increasing itself, during the [[mercantile exchange]] phase of capitalism. It can only be accumulated.
+
+When transformed into [[capital]], money loses all rigidity and becomes a **process**. (See [[capital concieved from money]]).
 
 Money represents the coalescence of all use-values and is the materialization of labor-time. This materialization faces a quantitative barrier that opposes capital's goal of continuous, infinite self-autonomization. An instance of this materialization is the [[gold standard]].
 
