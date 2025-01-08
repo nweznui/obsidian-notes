@@ -1,4 +1,7 @@
-strikethrough means throughly noted ~~once~~.
+https://jfprk.wordpress.com/2022/12/21/communist-reading-list-ultra-left/
+https://intcp.org/en/party-theses/
+
+strikethrough means noted ~~once~~.
 
 Simple beginner list: 
 - https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm (what do communists want)
@@ -10,9 +13,9 @@ Simple beginner list:
 - https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/ (why capitalism is bad for developing countries)
 - http://isr.press/My_Pseudo_Life/index.html (why capitalism stops people from fully maturing)
 - https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface-abs.htm (short marxist take on history)
-- https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm#a2  (marxist take on history, more detail)
-- https://www.quinterna.org/lingue/english/articles_en/the_social_brain.htm (the social brain)
-- https://leftofwreckage.wordpress.com/2023/11/04/what-is-dialectic-and-why-care/ (dialectics)
+- https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm#a2  ~~(marxist take on history, more detail)~~ (need to put into obsidian/re-read)
+- ~~https://www.quinterna.org/lingue/english/articles_en/the_social_brain.htm (the social brain)
+- ~~https://leftofwreckage.wordpress.com/2023/11/04/what-is-dialectic-and-why-care/ (dialectics)~~
 - https://empyreantrail.wordpress.com/method-and-system/ (hegelian stuff)
 - https://www.marxists.org/archive/james-clr/works/dialecti/index.htm (more hegel stuff)
 - https://www.international-communist-party.org/BasicTexts/English/21PartyC.htm (what are classes)
@@ -34,7 +37,6 @@ Simple beginner list:
 - https://www.international-communist-party.org/BasicTexts/English/20RolePC.htm (role of the party)
 - https://libriincogniti.wordpress.com/2019/03/19/programme-communiste-the-question-of-self-determination-in-the-classics-of-marxism-part-i/ (on national liberation)
 - https://endnotes.org.uk/articles/the-moving-contradiction
-
 - https://www.international-communist-party.org/English/Texts/Russia/67RevRev.htm (what went wrong with the USSR)
 - https://www.international-communist-party.org/BasicTexts/English/57Fundam.htm (summation)
 **Part 2) Program:**
@@ -49,7 +51,7 @@ Simple beginner list:
 - Marx, The Civil War in France
 - Trotsky, On the Paris Commune
 - Programma Communista, The Paris Commune was Great not because of what it’s creators wanted it to be (find on Libri Incogniti)
-- Engels to Philipp Van Patten[1]
+- Engels to Philipp Van Patten
 In New York 1883
 - Marx, Resolution of the London Conference on Working Class Political Action
 - Engels To Gerson Trier

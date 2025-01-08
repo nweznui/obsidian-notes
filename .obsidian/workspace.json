@@ -4,151 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1379d60c91ceeb9c",
+        "id": "1506f9f754cbb089",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc2141662010467",
+            "id": "c5eefc3864dbeaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "camatte - C&C/autonomy of exchange-value.md",
+                "file": "various/antonio wolf - what is \"dialectic\" and why care?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "autonomy of exchange-value"
+              "title": "antonio wolf - what is \"dialectic\" and why care?"
             }
           },
           {
-            "id": "5115d19b571d5405",
+            "id": "3683930a087f5189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "camatte - C&C/absolute surplus value.md",
+                "file": "heinrich/Das Kapital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "absolute surplus value"
+              "title": "Das Kapital"
             }
           },
           {
-            "id": "42aa406e0a8aa515",
+            "id": "cd4875a62bd68ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "camatte - C&C/autonomy of exchange-value.md",
+                "file": "heinrich/chapters/1. capitalism and marxism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "autonomy of exchange-value"
-            }
-          },
-          {
-            "id": "6e188283b17ddf5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/absolute surplus value.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "absolute surplus value"
-            }
-          },
-          {
-            "id": "ca7d73283df7fab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/chapter 1 forms of value and definition of capital/C. Results of the Immediate Process of Production.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C. Results of the Immediate Process of Production"
-            }
-          },
-          {
-            "id": "23783453da6056f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/abstract labor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "abstract labor"
-            }
-          },
-          {
-            "id": "aa1c3a193bb469a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/capital.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "capital"
-            }
-          },
-          {
-            "id": "de9d643bb0038ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/capital.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "capital"
-            }
-          },
-          {
-            "id": "248a2309dfffc731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/chapter 1 forms of value and definition of capital/B. Contributions of the Urtext.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B. Contributions of the Urtext"
-            }
-          },
-          {
-            "id": "de52fdbbd4da8d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "camatte - C&C/absolute surplus value.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "absolute surplus value"
+              "title": "1. capitalism and marxism"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,43 +191,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "644ea84cc30c2c6b",
+  "active": "cd4875a62bd68ada",
   "lastOpenFiles": [
-    "camatte - C&C/abstract labor.md",
+    "camatte - C&C/capital.md",
+    "heinrich/Das Kapital.md",
+    "heinrich/chapters/1. capitalism and marxism.md",
+    "camatte - C&C/dead labor.md",
+    "various/antonio wolf - what is \"dialectic\" and why care?.md",
+    "heinrich/exploitation.md",
+    "heinrich/chapters",
+    "Reading list/rac reading list.md",
+    "various/party and class - cpi.md",
+    "various/quinterna - the social brain.md",
+    "attachments/Pasted image 20241222173714.png",
+    "attachments/Pasted image 20241222173701.png",
+    "attachments/Pasted image 20241222173318.png",
+    "attachments",
+    "various",
+    "Reading list/palestine reading.md",
+    "camatte - C&C/law of value.md",
+    "camatte - C&C/autonomy of exchange-value.md",
+    "camatte - C&C/absolute surplus value.md",
     "camatte - C&C/chapter 1 forms of value and definition of capital/C. Results of the Immediate Process of Production.md",
+    "camatte - C&C/abstract labor.md",
+    "camatte - C&C/chapter 1 forms of value and definition of capital/B. Contributions of the Urtext.md",
+    "camatte - C&C/chapter 1 forms of value and definition of capital/A. The contribution of Capital vol 1..md",
     "camatte - C&C/chapter 2 definition of capital as value in process",
     "camatte - C&C/reification.md",
     "camatte - C&C/relative surplus value.md",
-    "camatte - C&C/capital.md",
     "camatte - C&C/living labor.md",
-    "camatte - C&C/chapter 1 forms of value and definition of capital/B. Contributions of the Urtext.md",
-    "camatte - C&C/chapter 1 forms of value and definition of capital/A. The contribution of Capital vol 1..md",
-    "heinrich/Das Kapital.md",
     "camatte - C&C/capital concieved from money.md",
     "camatte - C&C/money as autonomized exchange value.md",
     "camatte - C&C/objectified labor.md",
     "camatte - C&C/objectified universal labor-time.md",
     "camatte - C&C/surplus value.md",
     "camatte - C&C/technological revolution.md",
-    "camatte - C&C/use-value.md",
-    "camatte - C&C/variable capital.md",
-    "camatte - C&C/wage-labor.md",
-    "camatte - C&C/valorization process.md",
-    "camatte - C&C/value-creating process.md",
-    "camatte - C&C/real subsumption of labor under capital.md",
-    "camatte - C&C/labor capacity.md",
-    "camatte - C&C/C-M-C.md",
-    "camatte - C&C/constant capital.md",
-    "camatte - C&C/autonomy of exchange-value.md",
-    "Pasted image 20241222173714.png",
-    "Pasted image 20241222173701.png",
-    "Pasted image 20241222173318.png",
     "camatte - C&C/chapter 1 forms of value and definition of capital",
     "heinrich",
     "camatte - C&C",
     "principles of communism",
     "dialectical logic",
-    "Reading list/Untitled",
-    "Reading list"
+    "Reading list/Untitled"
   ]
 }

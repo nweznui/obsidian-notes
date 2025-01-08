@@ -1,6 +1,6 @@
 A [[class]] in society which lives entirely from the sale of it's [[labor]] and does not draw [[profit]] from any kind of [[captial]]. Whose sole existence depends on the *demand for labor.*
 
-The secret of [[production]] is the [[explotation]] of the proletariat.
+The secret of [[production]] is the [[exploitation]] of the proletariat.
 
 By [[Fredrich Engels]]'s defintion, they are the working class of the 19th century.
 
