@@ -1,16 +1,14 @@
-> By capital we understand (provisionally; we'll get more precise later) a particular sum of value, the goal of which is to be “valorized,” which is to say, generate a surplus.
-heinrich, introduction to capital, pg 16.
+An accumulation of money, or a coalesced, concatenated sum of value. Its goal is to be valorized and generate [[surplus value]]. [^1]
 
-*interest-bearing capital:*
-money is lent at interest and this interest is the surplus.
+Capital becomes distinct from [[money]] from the difference in their form of circulation. Capital is money necessary to buy something in order to sell it again (described in [[M-C-M]]).[^2]
 
-*merchant capital:*
-products are produced cheaply in one place and sold dearly in another place or another point in time. think petit-bourgeois artists who buy acrylic keychains manufactured overseas with cheap labor to sell it at a surplus at art booths. or people who buy merchandise with the intention of selling it at an upmarked price at a future point in time when they are more sought after and scarce.
+**Capital only exists *within* the process of buying and selling.** 
+It is wealth that *grows* through the process of circulation, or exchange.
 
-*industrial capital*:
-capital is advance for the purchase of means of production and employment of forces of labor. products are sold. revenue is used for means of production and wages, capital must reproduce itself and yield a surplus.
+Sources
+---
 
-===
-Camatte C&C (maybe cite text where you get these understandings from...)
-Objectified [[dead labor]]. Value in process.
-Specific social relations of production between people appear as "natural social properties of things."
+[^1]: Heinrich, Introduction to Capital, pg 16. ; "By capital we understand (provisionally; we'll get more precise later) a particular sum of value, the goal of which is to be “valorized,” which is to say, generate a surplus."
+
+[^2]: Marxists.org, Encyclopedia, https://www.marxists.org/glossary/terms/c/a.htm#capital; "On the other hand, _capital_ is money which is used to buy something only in order to sell it again."
+

@@ -1,0 +1,1 @@
+capital is advanced for the purchase of means of production and employment of forces of labor. products are sold. revenue is used for means of production and wages, capital must reproduce itself and yield a surplus.

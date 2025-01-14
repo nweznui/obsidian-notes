@@ -8,49 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5eefc3864dbeaaf",
+            "id": "ff31334273a2a4d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "various/antonio wolf - what is \"dialectic\" and why care?.md",
+                "file": "marxism in a nutshell - robin goodfellow/1. historical development of CMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antonio wolf - what is \"dialectic\" and why care?"
+              "title": "1. historical development of CMP"
             }
           },
           {
-            "id": "3683930a087f5189",
+            "id": "8001b220a4347117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heinrich/Das Kapital.md",
+                "file": "marxism in a nutshell - robin goodfellow/1. historical development of CMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Kapital"
+              "title": "1. historical development of CMP"
             }
           },
           {
-            "id": "cd4875a62bd68ada",
+            "id": "5b4dc836efa35829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heinrich/chapters/1. capitalism and marxism.md",
+                "file": "marxism in a nutshell - robin goodfellow/2. fundamental notions of marxist theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. capitalism and marxism"
+              "title": "2. fundamental notions of marxist theory"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volume 1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "industrial revolution.md",
+                "file": "marxism in a nutshell - robin goodfellow/1. historical development of CMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for industrial revolution"
+              "title": "Backlinks for 1. historical development of CMP"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "industrial revolution.md",
+                "file": "marxism in a nutshell - robin goodfellow/1. historical development of CMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from industrial revolution"
+              "title": "Outgoing links from 1. historical development of CMP"
             }
           },
           {
@@ -191,46 +190,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd4875a62bd68ada",
+  "active": "ff31334273a2a4d0",
   "lastOpenFiles": [
-    "camatte - C&C/capital.md",
-    "heinrich/Das Kapital.md",
-    "heinrich/chapters/1. capitalism and marxism.md",
-    "camatte - C&C/dead labor.md",
-    "various/antonio wolf - what is \"dialectic\" and why care?.md",
-    "heinrich/exploitation.md",
-    "heinrich/chapters",
+    "marxism in a nutshell - robin goodfellow/2. fundamental notions of marxist theory.md",
+    "dialectical logic/dialectics.md",
+    "Reading list/palestine reading.md",
+    "Reading list/philosophy.md",
+    "Reading list/r ultraleft reading list.md",
     "Reading list/rac reading list.md",
-    "various/party and class - cpi.md",
-    "various/quinterna - the social brain.md",
+    "marxism in a nutshell - robin goodfellow/1. historical development of CMP.md",
+    "heinrich/chapters/1. capitalism and marxism.md",
+    "heinrich/chapters/Untitled.md",
+    "marxism in a nutshell - robin goodfellow",
+    "camatte - C&C/abstract labor.md",
+    "camatte - C&C/concrete labor.md",
+    "camatte - C&C/reification.md",
+    "camatte - C&C/objectified labor.md",
+    "camatte - C&C/commodity.md",
+    "camatte - C&C/capital.md",
+    "camatte - C&C/commodity producing labor.md",
+    "camatte - C&C/immediate process.md",
+    "camatte - C&C/commodities.md",
+    "heinrich/exchange-value.md",
+    "value.md",
+    "camatte - C&C/capital as a social relation.md",
+    "camatte - C&C/money.md",
+    "camatte - C&C/M-C-M.md",
+    "various/antonio wolf - what is \"dialectic\" and why care?.md",
+    "camatte - C&C/industrial capital.md",
+    "camatte - C&C/merchant capital.md",
+    "heinrich/chapters",
     "attachments/Pasted image 20241222173714.png",
     "attachments/Pasted image 20241222173701.png",
     "attachments/Pasted image 20241222173318.png",
     "attachments",
     "various",
-    "Reading list/palestine reading.md",
-    "camatte - C&C/law of value.md",
-    "camatte - C&C/autonomy of exchange-value.md",
-    "camatte - C&C/absolute surplus value.md",
-    "camatte - C&C/chapter 1 forms of value and definition of capital/C. Results of the Immediate Process of Production.md",
-    "camatte - C&C/abstract labor.md",
-    "camatte - C&C/chapter 1 forms of value and definition of capital/B. Contributions of the Urtext.md",
-    "camatte - C&C/chapter 1 forms of value and definition of capital/A. The contribution of Capital vol 1..md",
     "camatte - C&C/chapter 2 definition of capital as value in process",
-    "camatte - C&C/reification.md",
-    "camatte - C&C/relative surplus value.md",
-    "camatte - C&C/living labor.md",
-    "camatte - C&C/capital concieved from money.md",
-    "camatte - C&C/money as autonomized exchange value.md",
-    "camatte - C&C/objectified labor.md",
-    "camatte - C&C/objectified universal labor-time.md",
-    "camatte - C&C/surplus value.md",
-    "camatte - C&C/technological revolution.md",
     "camatte - C&C/chapter 1 forms of value and definition of capital",
     "heinrich",
     "camatte - C&C",
     "principles of communism",
-    "dialectical logic",
-    "Reading list/Untitled"
+    "dialectical logic"
   ]
 }
